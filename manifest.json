@@ -11,7 +11,7 @@
   },
   
   "permissions": [
-    "https://jira.corp.inmobi.com/",
+    "https://dailyfreshfood.atlassian.net/",
     "notifications"
   ],
   
