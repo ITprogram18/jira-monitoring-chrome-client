@@ -7,4 +7,4 @@ var filterId = 18582;
 var username = "";
 var jiraissues =0;
 var jiraissuesSummary ;
-var url = "https://jira.corp.inmobi.com/";
+var url = "https://dailyfreshfood.atlassian.net/";
